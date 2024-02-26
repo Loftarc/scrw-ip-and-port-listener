@@ -38,7 +38,7 @@ Belirli bir IP adresinin ve bağlantı noktasının kullanım durumunu izleyebil
 **1. Kurulum**
 
 **Proje dosyalarını indirin veya kopyalayın:**
-```python git clone https://github.com/user/address-listening-system.git ```
+```python git clone https://github.com/Loftarc/scrw-ip-and-port-listener/  ```
 
 **Gerekli bağımlılıkları yükleyin:**
 ```python pip install -r requirements.txt ```
